@@ -20,7 +20,7 @@ markdown-it-py==2.1.0
 mssql==1.0.1
 mypy-extensions==0.4.3
 mysqlclient==2.1.0
-pandas==1.5.0
+pandas
 pytz==2022.4
 pytz-deprecation-shim==0.1.0.post0
 SQLAlchemy==1.4.27
